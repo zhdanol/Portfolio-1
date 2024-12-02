@@ -5,4 +5,4 @@
 
 * i love my girlfriend
 
-  ![me and my girlfriend](https://github.com/zhdanol/Portfolio-0/blob/main/5350725405193134863.jpg)
+  ![](https://github.com/zhdanol/Portfolio-0/blob/main/5350725405193134863.jpg)
